@@ -5,5 +5,5 @@
 
 ## Server
 ### The server directory uses NodeJS
-#### - NodeJS restapi
-#### - Database management system
+- NodeJS restapi
+- Database management system
